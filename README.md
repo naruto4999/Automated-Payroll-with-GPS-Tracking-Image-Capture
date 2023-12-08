@@ -16,4 +16,3 @@ Trained Face Recognition Model using Transfer Learning
 ![Dashboard](screenshots/vgg16/vgg16_0001lr_75epoch_summary.png)
 ![Dashboard](screenshots/vgg16/vgg16_001lr_20epoch_summary.png)
 ![Dashboard](screenshots/vgg16/vgg16_001lr_40epoch_summary.png)
-![Dashboard](screenshots/vgg16/vgg16_001lr_75epoch_summary.png)
